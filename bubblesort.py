@@ -42,4 +42,5 @@ arrayResult = str(bubbleSort(input_array))
 print ""
 print "Sorted after " + str(count) + " tries."
 print "Sorted:  " + arrayResult 
-
+print "---"
+print "Overall Time: " + str(time.time()-time1) + " seconds"
