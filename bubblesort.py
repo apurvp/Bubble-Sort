@@ -8,7 +8,7 @@
 import sys,time
 
 input_array=[]
-
+#enter the strings
 if (len(sys.argv) < 2):
     print ""
     print "Please input list items as arguments"
