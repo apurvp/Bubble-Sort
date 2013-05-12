@@ -8,9 +8,7 @@
 import sys,time
 
 input_array=[]
-#agfniodsncso
-while(1)
-{
+
 if (len(sys.argv) < 2):
     print ""
     print "Please input list items as arguments"
@@ -46,4 +44,3 @@ print "Sorted after " + str(count) + " tries."
 print "Sorted:  " + arrayResult 
 print "---"
 print "Overall Time: " + str(time.time()-time1) + " seconds"
-}
