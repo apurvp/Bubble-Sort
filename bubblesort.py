@@ -8,6 +8,8 @@
 import sys,time
 
 input_array=[]
+#agfniodsncso
+
 if (len(sys.argv) < 2):
     print ""
     print "Please input list items as arguments"
